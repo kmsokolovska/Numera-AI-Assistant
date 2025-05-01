@@ -1,27 +1,22 @@
-Numera AI Assistant
-Project Overview
-Numera AI Assistant is a conversational AI project designed to support small business owners and freelancers with accurate tax reporting.
-The assistant guides users through each step of the tax reporting process — from income collection to final report submission — in a simple, structured, and supportive way.
+# Numera AI Assistant
 
-Key Features
+## Project Overview
+Короткий опис (у тебе вже є в першому абзаці)
 
-Structured step-by-step user flow for reporting income, expenses, and deductions
+## Key Features
+- Step-by-step user flow
+- Tax deduction optimization
+- Financial suggestions
+- Final report submission
 
-Tax deduction optimization for maximum allowable savings
+## Project Components
+- User Flow Map (PDF)
+- Define User Personas (PDF)
+- Define Problem Statement (PDF)
+- Prompt Design Approach (PDF)
+- Prompt Structure (PDF)
+- Trigger List (PDF)
+- Research Competitors (PDF)
 
-Financial suggestions to improve future tax efficiency
-
-Final report generation and submission confirmation
-
-Project Components
-
-User Flow Map
-
-Prompt Structure for Assistant Conversations
-
-Financial Suggestion Logic
-
-Trigger List for Module Navigation
-
-Goal
-Create an easy-to-use AI assistant that helps non-technical users manage their tax tasks confidently and efficiently.
+## How to view
+All documents are attached as PDFs in this repository. Just click on them to view.
